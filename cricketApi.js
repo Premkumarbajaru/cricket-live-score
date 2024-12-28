@@ -1,6 +1,6 @@
 import fetch from "node-fetch";
 
-const API_KEY = "b5207fe2-61c0-472d-a9e6-75c4896fb298"; // Your CricAPI key
+const API_KEY = "/"; // Your CricAPI key
 const BASE_URL = "https://api.cricapi.com/v1/countries";
 
 // Function to fetch data from a specific offset
